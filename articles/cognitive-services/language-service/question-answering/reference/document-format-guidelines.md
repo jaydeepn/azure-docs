@@ -64,7 +64,7 @@ Below is an example of an unstructured PDF document:
  Currently this functionality is available only via document upload and only for PDF and DOC file formats.
 
 > [!IMPORTANT]
-> Support for unstructured file/content is available only in question answering.
+> Support for unstructured file/content is available only in question answering. Q&A pairs are not extracted from content identified as unstructured.
 
 ### Structured question answering document
 
